@@ -1,0 +1,24 @@
+{
+  "name": "allo",
+  "version": "0.0.1",
+  "description": "Async functions to deal with race conditions",
+  "main": "parallel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Couto/allo"
+  },
+  "keywords": [
+    "async",
+    "race",
+    "conditions"
+  ],
+  "author": "Luis Couto <couto@15minuteslate.net>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Couto/allo/issues"
+  },
+  "homepage": "https://github.com/Couto/allo"
+}

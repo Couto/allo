@@ -1,0 +1,27 @@
+{
+  "name": "allo",
+  "version": "0.0.1",
+  "authors": [
+    "Luis Couto <couto@15minuteslate.net>"
+  ],
+  "description": "Async functions to deal with race conditions",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "race",
+    "condition",
+    "async",
+    "functions"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
