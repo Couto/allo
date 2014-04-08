@@ -9,7 +9,8 @@
         module.exports = factory();
     } else {
         // Browser globals (root is window)
-        root.parallel = factory();
+        root.allo = root.allo || {};
+        root.allo.parallel = factory();
     }
 }(this, function () {
     'use strict';

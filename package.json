@@ -1,6 +1,6 @@
 {
   "name": "allo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Async functions to deal with race conditions",
   "main": "parallel.js",
   "scripts": {

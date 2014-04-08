@@ -9,7 +9,8 @@
         module.exports = factory();
     } else {
         // Browser globals (root is window)
-        root.series = factory();
+        root.allo = root.allo || {};
+        root.allo.series = factory();
     }
 }(this, function () {
 

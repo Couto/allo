@@ -8,7 +8,7 @@ Feel free to use, but...
 
 
 ```javascript
-series([
+allo.series([
     // First call this function
     function (next) {
         // the function receives a `next` function as argument
@@ -29,7 +29,7 @@ series([
 
 ```javascript
 // call all the given functions at the same time
-parallel([
+allo.parallel([
     function (done) {
         done('a');
     },
