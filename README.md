@@ -57,4 +57,4 @@ allo.parallel([
 
 ---
 
-Don't forget to check the [License](./License)
+Don't forget to check the [License](https://github.com/Couto/allo/blob/master/LICENSE)
